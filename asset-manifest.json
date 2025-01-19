@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rekise-marine-task/static/css/main.11ddc457.css",
+    "main.js": "/rekise-marine-task/static/js/main.887e637f.js",
+    "static/js/488.d4010338.chunk.js": "/rekise-marine-task/static/js/488.d4010338.chunk.js",
+    "index.html": "/rekise-marine-task/index.html",
+    "main.11ddc457.css.map": "/rekise-marine-task/static/css/main.11ddc457.css.map",
+    "main.887e637f.js.map": "/rekise-marine-task/static/js/main.887e637f.js.map",
+    "488.d4010338.chunk.js.map": "/rekise-marine-task/static/js/488.d4010338.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11ddc457.css",
+    "static/js/main.887e637f.js"
+  ]
+}
